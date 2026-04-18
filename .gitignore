@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+.env.*
+*.env
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+*.tar
+*.gz
+
+# Caddy
+Caddyfile
+caddy_data/
+caddy_config/
+
+# Runtime / Generated Files
+*.pid
+*.sock
+*.sqlite3
+
+# Temporary Files
+tmp/
+temp/
+
+# Secrets / Keys
+*.key
+*.pem
+*.crt
+
+# Project Specific
+server_list.txt
+.env.local
