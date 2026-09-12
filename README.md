@@ -34,7 +34,7 @@
 <h2>🕯️ &nbsp; What Darkness Dwells Here &nbsp; 🕯️</h2>
 </div>
 
-**Cypher** is a Python 3.10 CLI automation tool that deploys and manages popular open-source services on Linux servers using Docker — in one place, with one command, like a hunter who knows exactly which sigil to draw.
+**Cypher** is a Python 3.10 CLI automation tool that deploys and manages popular free services on Linux servers using Docker — in one place, with one command, like a hunter who knows exactly which sigil to draw.
 
 No YAML hell. No tab-hunting across 14 browser windows. No duct-taped shell scripts held together by prayers and caffeine.
 
@@ -51,7 +51,7 @@ You run it. It asks you a few questions. Then it handles everything — Docker, 
 | # | Service | What it does |
 |---|---------|-------------|
 | `01` | **n8n** | Workflow automation — your Bobby Singer, connecting everything |
-| `02` | **Supabase** | Open-source Firebase — the full stack, no deals with demons |
+| `02` | **Supabase** | free Firebase — the full stack, no deals with demons |
 | `03` | **Kong** | API Gateway — the Devil's Trap for your traffic |
 | `04` | **Mailcow** | Full email server suite — old-fashioned, reliable, iron-warded |
 | `05` | **Mattermost** | Team messaging with auto-plugin install — bunker comms |
@@ -197,7 +197,7 @@ sudo python3 main.py
   ▸ Select a Service
 
      1.  n8n — Workflow Automation
-     2.  Supabase — Open Source Firebase
+     2.  Supabase — free Firebase
      3.  Kong — API Gateway
     ...
 
@@ -268,7 +268,7 @@ Some creatures need special preparation. Cypher knows this.
 - A local CLI tool
 - Runs entirely on your machine
 - Generates readable compose files in `~/.cypher/`
-- Open source, always
+- free, always
 - Yours
 
 </td>
@@ -333,3 +333,36 @@ docker logs cypher_n8n
 <sub>No angels were harmed in the making of this tool. Several demons were.</sub>
 
 </div>
+
+---
+
+## Licence
+
+**Free to use. Not open source.**
+
+Made by **Kencypher** (Muhammad Waleed Amjad), sole author and copyright
+holder. All rights reserved.
+
+The source is readable here because this repository is public. That is not
+permission to reuse it.
+
+**You may** run it for anything including commercial work, read the source to
+learn from it, and link to this repository.
+
+**You may not**, without written permission: sell it or charge for access,
+re-upload or mirror it, publish it under another name, claim authorship, or
+copy its code into your own project and release that.
+
+This is enforced. Re-uploading this work, repackaging it, stripping the
+author's name from it or passing it off as your own is copyright infringement
+— protected without registration under the Berne Convention — and is pursued
+with DMCA takedowns, platform reports for impersonation, and legal proceedings
+where the infringement is commercial, repeated, or involves falsely claiming
+authorship.
+
+Asking first is free, and the answer is usually yes: **kencypher56@gmail.com**
+
+Any third-party components remain under their own licences, held by their own
+authors.
+
+See [LICENSE.txt](LICENSE.txt) · Everything else: <https://cypherstore.netlify.app>
