@@ -168,7 +168,7 @@ cypher-opensource/
 **Step 1 — Clone the repository**
 
 ```bash
-git clone https://github.com/kencypher/cypher-opensource.git
+git clone https://github.com/kencypher56/cypher-opensource.git
 cd cypher-opensource
 ```
 
