@@ -365,4 +365,4 @@ Asking first is free, and the answer is usually yes: **kencypher56@gmail.com**
 Any third-party components remain under their own licences, held by their own
 authors.
 
-See [LICENSE.txt](LICENSE.txt) · Everything else: <https://cypherstore.netlify.app>
+See [LICENSE.txt](LICENSE.txt) · Everything else: <https://cypherstore.vercel.app>
